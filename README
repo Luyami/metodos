@@ -1,0 +1,3 @@
+Use make in root folder to make uti library
+Then go to the wanted method folder (for example, "eigen" or "transformations") and use make again
+That's it (:
