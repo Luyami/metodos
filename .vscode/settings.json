@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "C:/Mingw/mingw64/bin/g++.exe",
+    "files.associations": {
+        "stdexcept": "cpp"
+    }
+}
